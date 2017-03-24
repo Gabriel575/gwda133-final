@@ -1,0 +1,96 @@
+body {
+    color: #555B63;
+    background-color: #82A8E8;
+}
+
+a:link {
+    color: #C3CFE3;
+    background-color: #384863;
+}
+
+a:visited {
+    color: #97A0B0;
+    background-color: #82A8E8;
+}
+
+a:hover {
+    color: #556363;
+    background-color: #70E2E8;
+}
+
+a:active {
+    color: #C3E2E3;
+    background-color: #;
+}
+
+#header {
+    color: #ecC3E2E3;
+    background-color: #C3E2E3;
+    border-color: #70E2E8;
+}
+
+#navigation {
+    color: #55635E;
+    background-color: #000000;
+    border-color: #;
+}
+
+#content {
+    color: #4C4C4C;
+    background-color: #183321;
+    border-color: #000000;
+}
+
+#navigation ul {
+    border-color: #99a;
+}
+
+#navigation a:link, #navigation a:visited {
+    color: #eef;
+    background-color: transparent;
+    border-color: #99a;
+}
+
+#navigation a:hover {
+    color: #4C4C4C;
+    background-color: #183321;
+}
+
+#navigation a:active {
+    color: #000000;
+    background-color: #364C3D;
+}
+
+#navigation a.here:link, #navigation a.here:visited, #navigation a.here:hover, #navigation a.here:active {
+    color: #999999;
+    background-color: #4C4C4C;
+}
+
+#content img {
+    border-color: #183321;
+    outline-color: #000000;
+}
+
+#imagegallery a {
+    background-color: transparent;
+}
+
+th {
+    color: #364C3D;
+    background-color: #999999;
+}
+
+tr td {
+    color: #999999;
+    background-color: #183321;
+}
+
+tr.odd td {
+    color: #000000;
+    background-color: #364C3D;
+}
+
+tr.highlight td {
+    color: #364C3D;
+    background-color: #000000;
+}
